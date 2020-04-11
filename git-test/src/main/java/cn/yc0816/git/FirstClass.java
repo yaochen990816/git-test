@@ -15,5 +15,6 @@ public class FirstClass {
         System.out.println("This is new added!");
 
         System.out.println("twice changed!");
+        System.out.println("twice changed! github");
     }
 }
