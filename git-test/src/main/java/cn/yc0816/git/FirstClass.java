@@ -17,4 +17,8 @@ public class FirstClass {
         System.out.println("twice changed!");
         System.out.println("twice changed! github");
     }
+
+    public void fff(){
+        System.out.println("this is third changed!");
+    }
 }
