@@ -13,5 +13,7 @@ public class FirstClass {
     }
     public void test(){
         System.out.println("This is new added!");
+
+        System.out.println("twice changed!");
     }
 }
